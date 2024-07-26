@@ -1,0 +1,346 @@
+@media (max-width: 450px) {
+    body {
+        margin: 0 !important;
+        overflow: scroll;
+        overflow-y: scroll;
+        overflow-x: scroll;
+    }
+    .navbar {
+        padding-left: 2rem;
+    }
+    .Ntitle {
+        font-size: 20px;
+    }
+    .Nb {
+        margin-bottom: 0px;
+        margin-top: 11px;
+    }
+    .Title {
+        font-size: 70px;
+        margin-top: 120px;
+    }
+    .Description1 {
+        font-size: 12px;
+    }
+    .Description2 {
+        font-size: 12px;
+    }
+    .Multibtn {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .Anime {
+        margin-bottom: 30px;
+    }
+    .border {
+        width: 100px;
+    }
+    .Theme {
+        right: 25px;
+    }
+    .footer {
+        margin-top: 9rem;
+        margin-left: 3rem;
+    }
+    .fdescription {
+        font-size: 10px;
+    }
+    .info {
+        margin-bottom: 20px;
+    }
+    .learn {
+        width: 280px;
+        height: 510px;
+    }
+    .lesson {
+        width: 90px;
+        height: 110px;
+    }
+    .lesson1 {
+        width: 90px;
+        height: 110px;
+    }
+    .name {
+        font-size: 14px;
+    }
+    .nameM {
+        display: none;
+    }
+}
+
+@media (max-width: 400px) {
+    body {
+        margin: 0 !important;
+        overflow: scroll;
+        overflow-y: scroll;
+        overflow-x: scroll;
+    }
+    .navbar {
+        padding-left: 2rem;
+    }
+    .Ntitle {
+        font-size: 20px;
+    }
+    .Nb {
+        margin-bottom: 0px;
+        margin-top: 11px;
+    }
+    .Title {
+        font-size: 70px;
+        margin-top: 80px;
+    }
+    .Description1 {
+        font-size: 12px;
+    }
+    .Description2 {
+        font-size: 12px;
+    }
+    .Multibtn {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .Anime {
+        margin-bottom: 30px;
+    }
+    .border {
+        width: 100px;
+    }
+    .Theme {
+        right: 25px;
+    }
+    .footer {
+        margin-top: 6rem;
+        margin-left: 2.5rem;
+    }
+    .fdescription {
+        font-size: 11px;
+    }
+    .info {
+        margin-bottom: 20px;
+    }
+    .learn {
+        width: 280px;
+        height: 510px;
+    }
+    .lesson {
+        width: 90px;
+        height: 110px;
+    }
+    .lesson1 {
+        width: 90px;
+        height: 110px;
+    }
+    .name {
+        font-size: 14px;
+    }
+    .nameM {
+        display: none;
+    }
+}
+
+@media (max-width: 380px) {
+    body {
+        margin: 0 !important;
+        overflow: scroll;
+        overflow-y: scroll;
+        overflow-x: scroll;
+    }
+    .navbar {
+        padding-left: 1rem;
+    }
+    .Ntitle {
+        font-size: 18px;
+        margin-right: 20px;
+    }
+    .Nb {
+        margin-bottom: 0px;
+        margin-top: 8px;
+    }
+    .Title {
+        font-size: 70px;
+        margin-top: 100px;
+    }
+    .Description1 {
+        font-size: 12px;
+    }
+    .Description2 {
+        font-size: 12px;
+    }
+    .Multibtn {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .Anime {
+        margin-bottom: 30px;
+    }
+    .border {
+        width: 100px;
+    }
+    .Theme {
+        right: 25px;
+    }
+    .footer {
+        margin-top: 5rem;
+        margin-left: 1rem;
+    }
+    .fdescription {
+        font-size: 11px;
+    }
+    .info {
+        margin-bottom: 20px;
+    }
+    .learn {
+        width: 280px;
+        height: 510px;
+    }
+    .lesson {
+        width: 90px;
+        height: 110px;
+    }
+    .lesson1 {
+        width: 90px;
+        height: 110px;
+    }
+    .name {
+        font-size: 14px;
+    }
+    .nameM {
+        display: none;
+    }
+}
+
+
+@media (max-width: 360px) {
+    body {
+        margin: 0 !important;
+        overflow: scroll;
+        overflow-y: scroll;
+        overflow-x: scroll;
+    }
+    .navbar {
+        padding-left: 1rem;
+    }
+    .Ntitle {
+        font-size: 18px;
+        margin-right: 20px;
+    }
+    .Nb {
+        margin-bottom: 0px;
+        margin-top: 8px;
+    }
+    .Title {
+        font-size: 70px;
+        margin-top: 50px;
+    }
+    .Description1 {
+        font-size: 12px;
+    }
+    .Description2 {
+        font-size: 12px;
+    }
+    .Multibtn {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .Anime {
+        margin-bottom: 30px;
+    }
+    .border {
+        width: 100px;
+    }
+    .Theme {
+        right: 25px;
+    }
+    .footer {
+        margin-top: 3rem;
+        margin-left: 1rem;
+    }
+    .fdescription {
+        font-size: 11px;
+    }
+    .info {
+        margin-bottom: 20px;
+    }
+    .learn {
+        width: 280px;
+        height: 510px;
+    }
+    .lesson {
+        width: 90px;
+        height: 110px;
+    }
+    .lesson1 {
+        width: 90px;
+        height: 110px;
+    }
+    .name {
+        font-size: 14px;
+    }
+    .nameM {
+        display: none;
+    }
+}
+
+@media (max-width: 800px) {
+    body {
+        margin: 0 !important;
+    }
+    .navbar {
+        padding-left: 2rem;
+    }
+    .Ntitle {
+        font-size: 23px;
+    }
+    .Nb {
+        margin-bottom: 0px;
+        margin-top: 11px;
+    }
+    .Title {
+        font-size: 70px;
+        margin-top: 140px;
+    }
+    .Description1 {
+        font-size: 12px;
+    }
+    .Description2 {
+        font-size: 12px;
+    }
+    .Multibtn {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .Anime {
+        margin-bottom: 30px;
+    }
+    .border {
+        width: 115px;
+    }
+    .Theme {
+        right: 25px;
+    }
+    .footer {
+        margin-top: 6rem;
+        margin-left: 3rem;
+    }
+    .fdescription {
+        font-size: 10px;
+    }
+    .learn {
+        width: 280px;
+        height: 510px;
+    }
+    .lesson {
+        width: 90px;
+        height: 110px;
+    }
+    .lesson1 {
+        width: 90px;
+        height: 110px;
+    }
+    .name {
+        font-size: 14px;
+    }
+    .nameM {
+        display: none;
+    }
+}
